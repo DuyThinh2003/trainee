@@ -1,0 +1,10 @@
+li{
+    font-size: 20;
+    color: green;
+}
+li.red{
+    color: red;
+}
+li#blue{
+    color: blue;
+}
